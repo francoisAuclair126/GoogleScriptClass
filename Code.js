@@ -20,3 +20,4 @@ function open1() {
     const b = SpreadsheetApp.getActiveSpreadsheet;
   }
 }
+test test
