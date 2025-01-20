@@ -5,10 +5,6 @@ function test2(){
   const sheet= ss.getName;
 }
 
-
-
-
-
 function open1() {
   const id = '18RllQQmP_jpqn16yUnxLdE9z9zVpfHShTEdC6Z0jv9A'
   const ss = SpreadsheetApp.openById(id);
